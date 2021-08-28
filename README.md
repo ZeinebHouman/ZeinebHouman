@@ -31,13 +31,12 @@
 
 
 
-<details>
+</br>
   <summary>:zap: GitHub Stats</summary>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeinebHouman&show_icons=true&theme=radical)
 
 
-</details>
 
 
 [instagram]: https://www.instagram.com/zeineb_houman/
