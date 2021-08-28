@@ -10,8 +10,9 @@
 
 ### Languages and Tools:
 <img align="left" alt="Zeineb" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Zeineb" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+
 <img align="left" alt="Zeineb" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="Zeineb" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
 <img align="left" alt="Zeineb" width="22px" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" />
 <img align="left" alt="Zeineb" width="22px" src="https://www.clipartmax.com/png/middle/354-3543373_spring-framework-logo-svg-png-download-java-spring.png" />
