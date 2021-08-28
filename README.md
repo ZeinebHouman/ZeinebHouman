@@ -33,12 +33,6 @@
 
 </br>
 </br>
- /* <summary>:zap: GitHub Stats</summary>
-
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeinebHouman&theme=radical&show_icons=true)
-*/
-
 
 
 
