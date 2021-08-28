@@ -36,6 +36,8 @@
   <summary>:zap: GitHub Stats</summary>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeinebHouman&show_icons=true&theme=radical&bg_color=DEG,pink,red,COLOR3...COLOR10)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeinebHouman&theme=radical&show_icons=true)
+
 
 
 
