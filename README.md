@@ -40,7 +40,7 @@
 
 <img align="left" alt="Zeineb" width="25px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" /> 
 <img align="left" alt="Zeineb" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> 
-<img align="left" alt="Zeineb" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
 
 [instagram]: https://www.instagram.com/zeineb_houman/
 [linkedin]: https://www.linkedin.com/in/zeineb-houman/
