@@ -1,5 +1,4 @@
-<img align="left" alt="zeineb | Gmail" width="300px" height="300px" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" />
-<br />
+
 ### Connect with me:
 
 [<img align="left" alt="zeineb | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" />][gmail]
