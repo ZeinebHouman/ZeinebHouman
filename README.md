@@ -1,4 +1,4 @@
-<img align="left" alt="zeineb | Gmail" width="300px" height="300px" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" />
+<img align="left" alt="zeineb | Gmail" width="300px" height="300px" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" />
 <br />
 ### Connect with me:
 
